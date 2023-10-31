@@ -11,7 +11,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer. I'm passionate
 - 🌱 I’m currently learning Backend Technologies (JavaScript, Reactjs, and Python.)
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-End Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my portfolio](williams-ovat.netlify.app) and contact me by emailing ovatwilliams@gmail.com.
+- 📫 You can contact me by emailing ovatwilliams@gmail.com.
 
 ---
 
